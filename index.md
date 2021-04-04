@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>FOF | Friends Of Farmers</title>
+    
+  <meta name="description" content="Friends of Farmer is a non-profitable website contributing farmers to sustain in fast-moving world and 
+  tries to engage youngsters in the field of farming or productive gardening for the development of Nation.">
+  <meta property="og:url" content="https://www.friendsoffarmer.com/">
+  <meta property="og:locale" content="en">
+
+    <link rel = "icon" href = "https://i.ibb.co/kHJC5m7/preview-5573c13c-2838-4333-b93d-14a70a141f37-1180x660-9s-Vh-I-1.jpg"     type = "FOF">
+    <link href='https://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital@1&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@600&display=swap" rel="stylesheet">
+</head>
+<style>
+    body{
+    background-color: rgba(87, 245, 66, 0.63);
+    margin-top:  -1px;
+    margin-bottom: -5px;
+    }
+    div.header
+    {
+        background-color:rgb(255, 255, 255);
+        border-bottom-style: groove;
+        border-bottom-color: chartreuse;
+        border-bottom-width: 3px;
+        border-left-style: groove;
+        border-left-color: chartreuse;
+        border-left-width: 3px;
+        border-right-style: groove;
+        border-right-color: chartreuse;
+        border-right-width: 3px;
+        border-radius: 0  px;
+        height : 100px;
+        margin-left: -8px;
+        margin-right:-8px;
+        overflow: hidden;
+        position: fixed; 
+        width:100%;
+        top:0%;
+    }
+    ul{
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(255, 255, 255);
+    margin-left : 300px;
+    margin-right : 4px;
+    margin-top: -60px;
+  }
+  
+  li {
+    float: right;
+    border-right:4px solid rgb(255, 254, 254);
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(49, 146, 49);
+    text-align: center;
+    padding: 8px 19px;
+    text-decoration: none;
+  }
+  a{
+    color: rgb(60, 190, 55);
+  }
+  
+  li a:hover:not(.active) {
+    background-color:rgba(255, 255, 255, 0);
+  }
+  
+  .active {
+    background-color: rgb(116, 241, 148);
+  }
+  a.a1{
+     margin-left:0px;
+  }
+  img.FOF{
+    
+    height:120px;
+    width: 120px;
+    margin-left: 35px;
+    margin-top: -11px;
+    
+  }
+  img.FOFW{
+    height:65px;
+    width:300px;
+    margin-left:-32px;
+    margin-top:-6px;
+  }
+  div.body{
+   
+    background-color:rgb(247, 247, 247);
+    border-color:rgb(245, 247, 244);
+    border-style:groove;
+    border-width:2px;
+    border-radius:5px;
+    height:750px;
+    margin-top:100px;
+    margin-left:-4px;
+    margin-right:-4px;
+  }
+  img.tractorimg{
+    margin-top:-400px;
+    margin-left:600px;
+        height:400px;
+        width:900px
+  }
+  img.bodyimg{
+    margin-top:200px;
+    margin-left:90px;
+  }
+  div.footer{
+    background-color:rgb(13, 126, 13) ;
+    border-style:groove;
+    border-color:rgb(0, 0, 0);
+    border-width:2px;
+    height:75px;
+    width:100%;
+    margin-top:0px;
+    margin-left:-4px;
+    margin-right:-4px;
+  }
+  img.footer{
+    margin-top:-100px;
+    margin-left:835px;
+  }
+  
+</style>
+<body>
+    <div class='header'>
+      <div><a><img class="FOF" src="https://i.ibb.co/Tkk2T2n/Green-Leaf.jpg" alt="Green-Leaf" border="0"></a></div>
+      <div><ul>
+        
+        <li style="float:right"><a style='color:rgb(255,0,0);' href="#about"><b>Join Us</b></a></li>
+        <li style="float:right"><a href="Support">Support</a></li>
+        <li style="float:right; background-color: rgba(2, 218, 20, 0.979); border-radius: 7px; "><a href="Login" style="color:ghostwhite ">Login</a></li>
+        <li style="float:right"><a href="Hire">Hire locally</a></li>
+        <li style="float:right"><a href="Near You">Whats near you?</a></li>
+        <li style="float:right"><a class="active" href="#home">Home</a></li> 
+    </ul></div>
+    </div>
+    <div class="body">
+      <a><img src="https://i.ibb.co/SvpLrtD/Indigo-border.png" alt="Indigo-border" border="0"></a>
+      <p>
+        <span> <h1 style="color:indigo;text-align: center;font-family:Source Serif Pro;margin-top:-200px">About</h1></span>
+     </p>
+     <div>
+       <a><img class="bodyimg" src="https://i.ibb.co/jytk9Vr/Bodyimg.png" alt="Bodyimg" border="0"></a>
+     </div>
+     <div>
+       <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">FOF is a non-profit start-up to enhance the farming method and to make farming as younster's passion and making contribution to nature. </p>
+     </div>
+     <div >
+      <a><img class="tractorimg"src="https://i.ibb.co/sJWRVLp/Tractor.png" alt="Tractor" border="0"></a>
+    </div>
+  </div>
+    <div class= "footer"><h5 style="text-align: center;color:cornsilk">Insta_@FOF_Twitter_Facebook_Email</h5>
+      <a><img class="footer" src="https://i.ibb.co/513Q8MS/Footer.png alt="Footer" border="0"></a></div>
+</body>
+</html>   
